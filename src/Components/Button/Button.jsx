@@ -1,9 +1,9 @@
 
 
-const Button = ({title="Bus",className}) => {
+const Button = ({title="Bus",className,logo}) => {
     return (
         <button className={className}>
-          {title} 
+          {title} {logo}
         </button>
     );
 };
