@@ -3,13 +3,14 @@ import BusIcon from "./Icons/BusIcon.svg?react"
 import PeopleHero from "./Icons/peopleHero.svg?react"
 import StoppageHero from "./Icons/stoppageHero.svg?react"
 import TablerHero from "./Icons/tablerHero.svg?react"
+import OfferCard from "./Icons/OfferCard.svg?react"
 
 // image import
 
 import HeroSectionImage from "./Images/HeroSectionImage.png"
 
 //export svg
-export {BusIcon,PeopleHero,StoppageHero,TablerHero}
+export {BusIcon,PeopleHero,StoppageHero,TablerHero,OfferCard}
 
 // image image
 export {HeroSectionImage} 
